@@ -3,7 +3,7 @@ import React,{useState,useEffect} from "react";
 import "./App.css";
 import axios from 'axios'
 import Details from './Details'
-
+//small changes
 const API_KEY = `https://api.nasa.gov/planetary/apod?api_key=hjgolf8MRcFJpvP3unQQocq5IeVMXUFaU3yi0oRw`
 
 function App() {
