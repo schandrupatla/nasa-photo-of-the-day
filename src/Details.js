@@ -1,7 +1,6 @@
 import React from 'react';
 import styled, { keyframes }from 'styled-components'
 
-//styled-component
 const kf = keyframes`
   100% {
     opacity: 1;
